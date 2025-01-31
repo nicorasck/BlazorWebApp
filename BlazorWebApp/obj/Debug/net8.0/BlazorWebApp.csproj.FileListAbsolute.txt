@@ -134,3 +134,4 @@ C:\Users\nicho\development\projects\OPF\Blazor\BlazorWebApp\BlazorWebApp\obj\Deb
 C:\Users\nicho\development\projects\OPF\Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.pdb
 C:\Users\nicho\development\projects\OPF\Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.genruntimeconfig.cache
 C:\Users\nicho\development\projects\OPF\Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\ref\BlazorWebApp.dll
+C:\Users\nicho\development\projects\OPF\Blazor\BlazorWebApp\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.sourcelink.json
